@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Scientific Calculator - C++ Project</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f9fc;
+      color: #333;
+    }
+    header {
+      background-color: #283593;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+    }
+    .section {
+      margin-bottom: 30px;
+    }
+    h2 {
+      color: #3949ab;
+    }
+    .code-block {
+      background: #e3e3e3;
+      padding: 10px;
+      font-family: monospace;
+      white-space: pre-wrap;
+      border-radius: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #eee;
+      font-size: 14px;
+    }
+    a {
+      color: #3f51b5;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Scientific Calculator - C++ Project</h1>
+    <p>By [Your Name]</p>
+  </header>
+
+  <main>
+    <div class="section">
+      <h2>🔧 Project Overview</h2>
+      <p>This project is a command-line scientific calculator written in C++. It performs various operations including:</p>
+      <ul>
+        <li>Basic Arithmetic (Add, Subtract, Multiply, Divide)</li>
+        <li>Trigonometric Functions (sin, cos, tan)</li>
+        <li>Logarithmic and Power functions</li>
+        <li>Square Root</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>💻 Technologies Used</h2>
+      <ul>
+        <li>C++ (Logic, Math Functions)</li>
+        <li>HTML/CSS (For this showcase page)</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>📁 GitHub Repository</h2>
+      <p>View the full source code on GitHub:</p>
+      <p><a href="https://github.com/your-username/scientific-calculator" target="_blank">github.com/your-username/scientific-calculator</a></p>
+    </div>
